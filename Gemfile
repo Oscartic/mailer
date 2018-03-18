@@ -31,6 +31,8 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 # gem figaro is a Simple, Heroku-friendly Rails app configuration using ENV and a single YAML file
 gem 'figaro'
+# Mailgun's Official Ruby Library
+gem 'mailgun-ruby', '~>1.1.6'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
